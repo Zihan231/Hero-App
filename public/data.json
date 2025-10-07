@@ -1,0 +1,326 @@
+[
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968764.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 101,
+    "description": "The **premier global social networking platform** connecting billions of users worldwide. Facebook allows you to share life updates, photos, and videos with friends and family, and join diverse community groups centered around shared interests. Key features include **Messenger for instant communication**, Marketplace for buying and selling locally, and personalized news feeds driven by powerful algorithms to show you the content and people you care about most. It's the essential app for staying connected and exploring the world through the eyes of your network.",
+    "size": 280,
+    "reviews": 165000000,
+    "ratingAvg": 3.9,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 28000000 },
+      { "name": "2 star", "count": 15000000 },
+      { "name": "3 star", "count": 22000000 },
+      { "name": "4 star", "count": 35000000 },
+      { "name": "5 star", "count": 65000000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3046/3046128.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 102,
+    "description": "The world's largest **video sharing and streaming platform**, offering an almost limitless array of content, from professional music videos and movie trailers to vlogs, educational tutorials, and live streams. YouTube provides a **personalized homepage** based on viewing history and allows users to subscribe to their favorite creators. Features include high-quality playback up to 4K resolution, easy sharing tools, and a comment section that fosters global community discussion around video content. It is the definitive source for digital video entertainment and learning.",
+    "size": 170,
+    "reviews": 44000000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 11000000 },
+      { "name": "5 star", "count": 28000000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968943.png",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 103,
+    "description": "A **fast, simple, and secure messaging application** that uses end-to-end encryption to protect conversations, ensuring only you and the person you're talking to can read or listen to what's sent. WhatsApp facilitates text messages, group chats, **voice calls, and high-quality video calls** over your phone's internet connection. It is globally recognized for its reliability and low data usage, allowing for easy sharing of documents, photos, and live location updates across different countries and mobile operating systems.",
+    "size": 120,
+    "reviews": 140000000,
+    "ratingAvg": 4.1,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000000 },
+      { "name": "2 star", "count": 10000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 70000000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968894.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 104,
+    "description": "The **leading visual media platform** for sharing photos, short videos (**Reels**), and 'Stories' that disappear after 24 hours. Instagram is a cultural hub where users connect with friends, follow celebrity accounts, and discover new trends through a highly curated, visually-focused feed. It provides a suite of advanced editing tools, filters, and effect options, enabling creators and businesses to showcase their products, art, and daily life in a compelling, stylish format.",
+    "size": 250,
+    "reviews": 165000000,
+    "ratingAvg": 3.9,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 29000000 },
+      { "name": "2 star", "count": 16000000 },
+      { "name": "3 star", "count": 24000000 },
+      { "name": "4 star", "count": 37000000 },
+      { "name": "5 star", "count": 59000000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968777.png",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 105,
+    "description": "The unrivaled destination for **short-form mobile video content**. TikTok uses a hyper-personalized 'For You Page' algorithm to deliver an endless stream of exciting, spontaneous, and genuine clips, ranging from comedy and dance challenges to educational snippets. It empowers global creativity with a vast library of sounds, effects, and editing tools, making it easy for anyone to become a creator and participate in viral trends that shape global youth culture and entertainment.",
+    "size": 180,
+    "reviews": 48000000,
+    "ratingAvg": 4.3,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 4500000 },
+      { "name": "3 star", "count": 7500000 },
+      { "name": "4 star", "count": 13000000 },
+      { "name": "5 star", "count": 19000000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/60/60181.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 106,
+    "description": "The **world's most comprehensive and reliable navigation and mapping service**. Google Maps offers real-time GPS navigation with turn-by-turn directions for driving, walking, cycling, and public transit, incorporating live traffic updates to avoid congestion. Its expansive features include detailed street view panoramas, offline map capability, and business listings with user-submitted reviews, photos, and operating hours, making it the indispensable tool for exploring the world and finding local destinations.",
+    "size": 140,
+    "reviews": 6900000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 4500000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968846.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 107,
+    "description": "The **leading global digital music and podcast streaming service**. Spotify provides access to millions of songs, albums, and original podcasts with personalized recommendations based on your listening habits and mood. Users can create, share, and discover countless playlists, enjoy high-quality audio playback, and download content for offline listening with a premium subscription. It seamlessly integrates across all devices, ensuring your soundtrack is always available, from your morning commute to a workout session.",
+    "size": 100,
+    "reviews": 45000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 4500000 },
+      { "name": "3 star", "count": 6500000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 19000000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/732/732228.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 108,
+    "description": "The **pioneering and largest subscription-based streaming service** offering an extensive library of award-winning TV series, films, documentaries, and stand-up specials. Netflix constantly adds new content, including globally popular original programming. It provides a highly tailored viewing experience with personalized recommendations, multiple profiles for family members, and the ability to download titles for **offline viewing**, making it the ultimate mobile solution for entertainment on the go.",
+    "size": 130,
+    "reviews": 4700000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 450000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2700000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968368.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon.com, Inc.",
+    "id": 109,
+    "description": "The **essential mobile application for the massive online marketplace**. Amazon Shopping allows users to browse, search, compare prices, read millions of trusted customer reviews, and purchase products from every conceivable category. Key app features include personalized deal alerts, **real-time package tracking**, and an integrated camera scanner for fast product lookup. It offers a secure, convenient, and incredibly fast way to manage your orders and shop anywhere in the world.",
+    "size": 190,
+    "reviews": 11000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/100/100257.png",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 110,
+    "description": "Known as the **world's digital town square**, X is the platform for real-time, short-form text and media posts. It is the premier source for **breaking news, viral conversations, and global trends**, connecting users with instant updates on politics, sports, entertainment, and technology. Users can join live discussions, post videos and images, and engage with content via replies, reposts, and quotes, making it an indispensable tool for following current events and public opinion as they unfold.",
+    "size": 160,
+    "reviews": 10100000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2900000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968962.png",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 111,
+    "description": "A vast network of communities and forums (**subreddits**) where users share content, ask questions, and engage in diverse discussions on virtually any topic imaginable, from niche hobbies to major world events. Content is curated by the community using **upvotes and downvotes**, ensuring the most relevant and popular posts rise to the top. Reddit fosters deep, anonymous community interaction, featuring famous 'Ask Me Anything' (**AMA**) sessions with celebrities and experts.",
+    "size": 95,
+    "reviews": 6000000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 750000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 2250000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1057/1057037.png",
+    "title": "Fitbit",
+    "companyName": "Google LLC",
+    "id": 112,
+    "description": "The accompanying application for **Fitbit wearables**, designed to track and analyze your health and fitness data comprehensively. It records metrics such as **daily steps, distance, calories burned, active minutes, and sleep quality**. The app provides insightful data visualizations, goal setting, community challenges, and detailed heart rate monitoring. It acts as your personalized wellness dashboard, offering motivation and trends to help you maintain a holistic, healthy lifestyle.",
+    "size": 150,
+    "reviews": 750000,
+    "ratingAvg": 4.1,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 75000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 175000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/6124/6124998.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "id": 113,
+    "description": "The most **popular language learning application in the world**, using a **fun, gamified approach** to teach over 40 languages, including Spanish, French, and Japanese. Lessons are delivered in short, bite-sized units, focusing on reading, writing, listening, and speaking skills. Users earn points, level up, and compete with friends while mastering vocabulary and grammar through engaging exercises, making the often-difficult task of language acquisition addictive and effective.",
+    "size": 220,
+    "reviews": 15000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 3800000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2920/2920803.png",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 114,
+    "description": "A powerful, all-in-one platform for **graphic design and visual content creation**, accessible to both professionals and beginners. Canva offers thousands of customizable templates for social media posts, presentations, logos, and print materials. Features include a massive stock photo library, easy drag-and-drop tools, video editing, and team collaboration options, allowing users to **design stunning visuals quickly** and consistently across all digital and print needs.",
+    "size": 250,
+    "reviews": 4000000,
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 75000 },
+      { "name": "3 star", "count": 175000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 2700000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/732/732200.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 115,
+    "description": "Google's widely used **free email service**, known for its powerful search capabilities, robust security features, and integrated productivity tools. Gmail offers a clean, user-friendly interface with an intelligent inbox that automatically filters and categorizes messages, prioritizing critical communication. It integrates natively with other Google services like Calendar and Drive and features **strong spam filtering and advanced security protocols** to keep your private messages safe and your inbox organized across all your devices.",
+    "size": 90,
+    "reviews": 12000000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 4500000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3670/3670150.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 116,
+    "description": "A **visual discovery engine** where users find and save creative ideas, inspiration, and products from across the web in organized collections called 'boards.' Pinterest is utilized globally for everything from recipe planning and home decor projects to fashion trends and travel inspiration. Its powerful visual search technology and personalized feed make it easy to discover new concepts and save them for future reference, acting as a personal, digital mood board and planner.",
+    "size": 110,
+    "reviews": 5000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/281/281788.png",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings, Inc.",
+    "id": 117,
+    "description": "A globally trusted and **secure platform for digital payments and money transfers**. PayPal allows users to link bank accounts and credit cards to send money to friends and family, pay for goods and services online, and accept payments from customers. The app features robust security measures, purchase protection for eligible transactions, and **instant payment notifications**, providing a convenient and protected way to manage your financial transactions without sharing sensitive card information.",
+    "size": 130,
+    "reviews": 1500000,
+    "ratingAvg": 4.1,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 350000 },
+      { "name": "5 star", "count": 750000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/306/306231.png",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 118,
+    "description": "The **all-encompassing hub for team collaboration and communication** within the Microsoft ecosystem. Teams combines persistent workplace chat, video meetings, file storage, and application integration into a single platform. It allows colleagues to work together seamlessly across distances, facilitating **scheduled or instant video conferencing**, direct messaging, and shared document editing in real-time. It is essential for modern remote and hybrid work environments, boosting enterprise-level productivity and organizational cohesion.",
+    "size": 210,
+    "reviews": 300000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 140000 }
+    ]
+  }
+]
