@@ -7,8 +7,28 @@ const Apps = () => {
     return (
         <div className='w-[85%] mx-auto mt-20 pb-50 flex flex-col justify-center items-center'>
             <div className='text-center mb-10'>
-                <h1 className='text-5xl font-bold text-[#001931e4] mb-4'>Trending Apps</h1>
+                <h1 className='text-5xl font-bold text-[#001931e4] mb-4'>Our All Applications</h1>
                 <p className='text-[#627382]'>Explore All Trending Apps on the Market developed by us</p>
+            </div>
+            <div className='flex justify-between items-center w-[90%] mb-4'>
+                <h1 className='text-[#001931e4] font-semibold text-2xl'>
+                    ({data.length}) Apps Found
+                </h1>
+                <label className="input">
+                    <svg className="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <g
+                            strokeLinejoin="round"
+                            strokeLinecap="round"
+                            strokeWidth="2.5"
+                            fill="none"
+                            stroke="currentColor"
+                        >
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <path d="m21 21-4.3-4.3"></path>
+                        </g>
+                    </svg>
+                    <input type="search" required placeholder="Search" />
+                </label>
             </div>
             {/* cards Container */}
             <div className='grid md:grid-cols-4 gap-4 sm:grid-cols-3'>

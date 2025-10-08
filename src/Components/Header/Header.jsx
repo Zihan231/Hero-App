@@ -20,9 +20,11 @@ const Header = () => {
                         <NavLink to='/installation'>Installation</NavLink>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl flex items-center ">
+                <NavLink to='/'>
+                    <p className="btn btn-ghost text-xl flex items-center ">
                     <span><img className='w-[32px]' src={logo} alt=""></img></span> <span className='txtGrad font-bold inter'>Hero.IO</span>
-                </a>
+                </p>
+                </NavLink>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 gap-8 font-semibold">

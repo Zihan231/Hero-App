@@ -19,7 +19,7 @@ const TrendingApps = ({ data }) => {
                 }
             </div>
 
-            <Link to='/apps'><a className="btn bgGrad text-white mt-6">Show All</a></Link>
+            <Link to='/apps'><button className="btn bgGrad text-white mt-6">Show All</button></Link>
         </div>
     );
 };
