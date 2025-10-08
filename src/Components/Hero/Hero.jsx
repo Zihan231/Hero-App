@@ -13,8 +13,12 @@ const Hero = () => {
                     <p className="py-2 text-[#627382] max-w-[800px] mx-auto my-4 md:my-6 sm:my-5">
                         At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.
                     </p>
-                    <button className="btn font-semibold text-lg mr-4"><img className='w-[28px] mr-1' src={googlePlay} alt=""></img> Google Play</button>
+                    <a href="https://play.google.com/store/games" target='_black'>
+                        <button className="btn font-semibold text-lg mr-4"><img className='w-[28px] mr-1' src={googlePlay} alt=""></img> Google Play</button>
+                    </a>
+                    <a href="https://www.apple.com/app-store/" target='_black'>
                     <button className="btn font-semibold text-lg"><img className='w-[28px] mr-1' src={apple} alt=""></img> App Store</button>
+                    </a>
                 </div>
             </div>
         </div>
