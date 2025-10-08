@@ -7,6 +7,11 @@ import Apps from '../pages/App/Apps.jsx';
 import Installation from '../pages/Installation/Installation.jsx'
 import AppDetails from '../pages/AppDetails/AppDetails.jsx';
 
+
+
+
+
+
 export const router = createBrowserRouter([
     {
         path: '/',
@@ -15,22 +20,23 @@ export const router = createBrowserRouter([
         children: [
             {
                 index: true,
-                loader: ()=> fetch('/data.json') ,
+                loader: () => fetch('/data.json'),
                 path: '/',
                 Component: Home
             },
             {
                 path: '/apps',
-                loader: ()=> fetch('/data.json') ,
+                loader: () => fetch('/data.json'),
                 Component: Apps
             },
             {
                 path: '/installation',
-                Component: Installation
+                loader: () => fetch('/data.json'),
+                element: <Installation></Installation>
             },
             {
                 path: '/appDetails/:appId',
-                loader: ()=> fetch('/data.json') ,
+                loader: () => fetch('/data.json'),
                 Component: AppDetails
             }
         ]

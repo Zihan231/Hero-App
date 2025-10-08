@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { useLoaderData, useParams } from 'react-router';
-import Img from '../../assets/Img/demo-app (4).webp'
 import { LuDownload } from "react-icons/lu";
 import { FaStar } from "react-icons/fa6";
 import { MdReviews } from "react-icons/md";
