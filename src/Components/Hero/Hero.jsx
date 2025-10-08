@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="hero bg-base-200 mb-10">
             <div className="hero-content text-center">
                 <div className="">
-                    <h1 className="text-6xl font-bold text-[#001931] max-w-[500px] mx-auto">We Build <span className='txtGrad '>Productive</span> Apps
+                    <h1 className="text-6xl font-bold text-[#001931e4] max-w-[500px] mx-auto">We Build <span className='txtGrad '>Productive</span> Apps
 
                     </h1>
                     <p className="py-2 text-[#627382] max-w-[800px] mx-auto my-4 md:my-6 sm:my-5">
