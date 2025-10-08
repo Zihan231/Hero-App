@@ -13,6 +13,8 @@ const AppDetails = () => {
     const ID = parseInt(appId);
     const data = useLoaderData();
     const singleApp = data.find(a => a.id === ID);
+
+    // console.log(singleApp);
     const ratings = singleApp.ratings;
 
     function formatNumber(num) {
@@ -55,9 +57,9 @@ const AppDetails = () => {
     }
     return (
         // Main Div
-        <div className='pb-20'>
-            {/* App Details Div */}
-            <div className='md:w-[85%] sm:w-[90%] w-[95%] mx-auto mt-10 inter'>
+        < div className = 'pb-20' >
+            {/* App Details Div */ }
+            <div div className = 'md:w-[85%] sm:w-[90%] w-[95%] mx-auto mt-10 inter' >
                 <div className='grid md:grid-cols-[1fr_3fr] grid-cols-1 gap-4'>
                     <div className='flex items-center justify-center'>
                         <img className='rounded-2xl w-[256px]' src={singleApp.image} alt={singleApp.title}></img>
@@ -95,7 +97,7 @@ const AppDetails = () => {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div >
             <Chart ratings={ratings}></Chart>
             <div className='md:w-[85%] sm:w-[90%] w-[95%] mx-auto mt-10 inter'>
 
@@ -104,7 +106,7 @@ const AppDetails = () => {
                     {singleApp.description}
                 </p>
             </div>
-        </div>
+        </div >
     );
 };
 

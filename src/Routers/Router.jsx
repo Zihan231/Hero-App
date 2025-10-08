@@ -6,6 +6,7 @@ import Home from '../pages/Home/Home.jsx';
 import Apps from '../pages/App/Apps.jsx';
 import Installation from '../pages/Installation/Installation.jsx'
 import AppDetails from '../pages/AppDetails/AppDetails.jsx';
+import Details from '../pages/AppDetails/Details.jsx';
 
 
 
@@ -35,9 +36,9 @@ export const router = createBrowserRouter([
                 element: <Installation></Installation>
             },
             {
-                path: '/appDetails/:appId',
+                path: '/details/:appId',
                 loader: () => fetch('/data.json'),
-                Component: AppDetails
+                Component: Details
             }
         ]
     }

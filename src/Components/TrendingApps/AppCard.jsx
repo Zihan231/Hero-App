@@ -11,7 +11,7 @@ function formatNumber(num) {
 
 const AppCard = ({ dt }) => {
     return (
-        <Link to={`/appDetails/${dt.id}`}>
+        <Link to={`/details/${dt.id}`}>
             <div className='shadow-lg p-2 border-1 border-gray-200 rounded-2xl '>
                 <div className='flex justify-center items-center'>
                     <img className='rounded-2xl w-[256px]' src={dt.image} alt=""></img>

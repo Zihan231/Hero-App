@@ -46,7 +46,7 @@ const Installation = () => {
             <div className='flex justify-between items-center'>
                 <h1 className='text-[#001931e4] font-semibold md:text-2xl sm:text-xl text-xs'>{installed.length} App Found</h1>
                 <div className="dropdown dropdown-left">
-                    <div tabIndex={0} role="button" className="btn m-1 border-gray-200">Sort By Size <FaArrowLeft /></div>
+                    <div tabIndex={0} role="button" className="btn m-1 border-gray-200">Sort By Downloads<FaArrowLeft /></div>
                     <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm text-black">
                         <li><button onClick={sortHighToLow}>High to Low</button></li>
                         <li><button onClick={sortLowToHigh}>Low To High</button></li>

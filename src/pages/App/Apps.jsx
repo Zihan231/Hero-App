@@ -2,15 +2,23 @@ import React, { useState } from 'react';
 import AppCard from '../../Components/TrendingApps/AppCard';
 import { useLoaderData } from 'react-router';
 import NoApps from '../../Components/NoApp/NoApps.jsx'
+import { ClockLoader } from 'react-spinners';
 
 const Apps = () => {
     const data = useLoaderData();
     const [searchTerm, setSearchTerm] = useState('');
+    const [loading, setLoading] = useState(false);
     const filteredApps = data.filter(dt =>
         dt.title.toLowerCase().includes(searchTerm.toLowerCase())
     );
-    // console.log(data.filter(dt => dt.title.toLowerCase().includes(searchTerm.toLowerCase())));
-    // console.log(data.map(x => x.title));
+    const handleSearch = (e) => {
+        setLoading(true);
+        setSearchTerm(e.target.value);
+        setTimeout(() => {
+            setLoading(false);
+        }, 300);
+    }
+
 
     return (
         <div className='md:w-[85%] w-[100%] mx-auto mt-20 pb-50 flex flex-col justify-center items-center'>
@@ -37,17 +45,32 @@ const Apps = () => {
                         </g>
                     </svg>
                     <input type="search" required placeholder="Search" value={searchTerm}
-                        onChange={(e) => setSearchTerm(e.target.value)} />
+                        onChange={handleSearch} />
                 </label>
             </div>
-            {/* cards Container */}
-            <div className='grid md:grid-cols-4 gap-4 sm:grid-cols-3'>
-                {filteredApps.length > 0 ? (
-                    filteredApps.map(dt => <AppCard key={dt.id} dt={dt} />)
-                ) : (
-                    <NoApps />
-                )}
-            </div>
+            {
+                loading ? (
+                    <div className="flex flex-col items-center justify-center h-[50vh]">
+                        <ClockLoader
+                        color="#a12cff"
+                        size={100}
+                    />
+                        <p className="mt-4 text-lg font-semibold text-[#a12cff] animate-pulse">
+                        Searching...
+                    </p>
+                    </div>
+                ) :
+                    (    
+                        // Cards Container
+                        <div className='grid md:grid-cols-4 gap-4 sm:grid-cols-3'>
+                            {filteredApps.length > 0 ? (
+                                filteredApps.map(dt => <AppCard key={dt.id} dt={dt} />)
+                            ) : (
+                                <NoApps />
+                            )}
+                        </div>
+                    )
+            }
         </div>
     );
 };
