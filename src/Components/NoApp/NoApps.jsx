@@ -6,7 +6,7 @@ const NoApps = () => {
     return (
         <div className='col-span-4 flex flex-col items-center justify-center py-5'>
             <div>
-                <img src={noAppImg} alt="" />
+                <img src={noAppImg} alt={noAppImg} />
             </div>
             <div>
                 <h1 className='text-5xl font-bold text-[#001931e4] mb-4'>
@@ -17,7 +17,7 @@ const NoApps = () => {
                 </p>
             </div>
             <div>
-                <Link to='/'><button className="btn bgGrad text-white mt-6">Go Back!</button></Link>
+                <Link to='/'><button className="btn bgGrad text-white mt-6 border-0">Go Back!</button></Link>
             </div>
         </div>
     );

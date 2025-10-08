@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useLoaderData, useParams } from 'react-router';
 import Img from '../../assets/Img/demo-app (4).webp'
 import { LuDownload } from "react-icons/lu";
 import { FaStar } from "react-icons/fa6";
 import { MdReviews } from "react-icons/md";
 import Chart from '../../Components/Chart/Chart';
+import { addToLocal } from '../../utility/addToLocal';
+import { toast } from 'react-toastify';
 
 
 const AppDetails = () => {
@@ -19,6 +21,38 @@ const AppDetails = () => {
         if (num >= 1_000_000) return (num / 1_000_000).toFixed(1).replace(/\.0$/, '') + 'M';
         if (num >= 1_000) return (num / 1_000).toFixed(1).replace(/\.0$/, '') + 'K';
         return num.toString();
+    }
+    const checkLocal = () => {
+        const items = JSON.parse(localStorage.getItem('installed')) || [];
+        return items.includes(singleApp.id);
+
+    }
+    const [isInstalled, setIsInstalled] = useState(checkLocal());
+
+    useEffect(() => {
+        setIsInstalled(checkLocal());
+    }, [singleApp]);
+    const handleInstall = (id) => {
+        const result = addToLocal(id);
+        setIsInstalled(true);
+        if (result) {
+            toast.warning("Already Installed !", {
+                style: {
+                    backgroundImage: "linear-gradient(to bottom right, #632ee3, #9f62f2)",
+                    color: "#fff",
+                    fontWeight: "bold",
+                },
+            });
+        }
+        else {
+            toast.success("Installation was successful 🎉", {
+                style: {
+                    backgroundImage: "linear-gradient(to bottom right, #632ee3, #9f62f2)",
+                    color: "#fff",
+                    fontWeight: "bold",
+                },
+            });
+        }
     }
     return (
         // Main Div
@@ -53,7 +87,12 @@ const AppDetails = () => {
                             </div>
                         </div>
                         <div className='flex justify-center md:justify-start items-center my-4'>
-                            <button className="btn bg-[#00D390] text-white">Install Now (291 MB)</button>
+                            <button
+                                onClick={() => handleInstall(singleApp.id)}
+                                className="btn bg-[#00D390] text-white"
+                            >
+                                {isInstalled ? "Installed" : `Install Now (${singleApp.size})`}
+                            </button>
                         </div>
                     </div>
                 </div>
@@ -63,7 +102,7 @@ const AppDetails = () => {
 
                 <h1 className="font-semibold text-2xl mb-4">Description</h1>
                 <p className='text-[#627382] text-xs'>
-                    { singleApp.description }
+                    {singleApp.description}
                 </p>
             </div>
         </div>
