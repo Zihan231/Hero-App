@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968764.png",
+    "image": "https://cdn.simpleicons.org/facebook",
     "title": "Facebook",
     "companyName": "Meta Platforms, Inc.",
     "id": 101,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/3670/3670125.png",
+    "image": "https://cdn.simpleicons.org/instagram",
     "title": "Instagram",
     "companyName": "Meta Platforms, Inc.",
     "id": 102,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968841.png",
+    "image": "https://cdn.simpleicons.org/whatsapp",
     "title": "WhatsApp",
     "companyName": "Meta Platforms, Inc.",
     "id": 103,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/3046/3046126.png",
+    "image": "https://cdn.simpleicons.org/tiktok",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 104,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968799.png",
+    "image": "https://cdn.simpleicons.org/snapchat",
     "title": "Snapchat",
     "companyName": "Snap Inc.",
     "id": 105,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968958.png",
+    "image": "https://cdn.simpleicons.org/x",
     "title": "Twitter",
     "companyName": "X Corp.",
     "id": 106,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
+    "image": "https://cdn.simpleicons.org/telegram",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 107,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/512px-Spotify_logo_without_text.svg.png",
+    "image": "https://cdn.simpleicons.org/spotify",
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 108,
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/2504/2504929.png",
+    "image": "https://cdn.simpleicons.org/netflix",
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
     "id": 109,
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/3938/3938026.png",
+    "image": "https://cdn.simpleicons.org/youtube",
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 110,
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968534.png",
+    "image": "https://cdn.simpleicons.org/gmail",
     "title": "Gmail",
     "companyName": "Google LLC",
     "id": 111,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/2886/2886372.png",
+    "image": "https://cdn.simpleicons.org/googlemaps",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 112,
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/4945/4945907.png",
+    "image": "https://cdn.simpleicons.org/zoom",
     "title": "Zoom",
     "companyName": "Zoom Video Communications",
     "id": 113,
@@ -234,43 +234,7 @@
     ]
   },
   {
-    "image": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg",
-    "title": "LinkedIn",
-    "companyName": "Microsoft Corporation",
-    "id": 114,
-    "description": "LinkedIn is the world's largest professional networking platform developed by Microsoft Corporation, connecting professionals, businesses, job seekers, and recruiters in a comprehensive ecosystem designed for career development, business networking, professional learning, and employment opportunities. The platform enables users to create detailed professional profiles showcasing work experience, education, skills, certifications, accomplishments, and recommendations from colleagues and supervisors, essentially serving as living, interactive resumes visible to millions of professionals and recruiters worldwide. LinkedIn's connection system allows professionals to build networks of colleagues, industry peers, alumni, clients, and other professional contacts, with each connection expanding access to second and third-degree networks that facilitate introductions, collaborations, and opportunities. The platform's job search functionality aggregates millions of employment opportunities from companies globally, with sophisticated filtering by location, industry, experience level, job type, and other criteria, while LinkedIn's Easy Apply feature streamlines application processes. LinkedIn's recruitment tools enable employers and recruiters to post job openings, search for candidates using detailed criteria, view applicant profiles comprehensively, and reach out to potential hires directly through InMail messaging. The platform's content feed shares professional articles, industry news, company updates, career insights, and user-generated posts that inform, educate, and inspire professional communities. LinkedIn Learning provides extensive online courses covering business skills, creative techniques, technology training, and professional development topics, with certificates of completion that can be added to profiles. The platform's company pages allow organizations to showcase their brand, culture, products, services, and job opportunities while engaging with followers through updates and content. LinkedIn's endorsement system enables connections to validate each other's skills, building social proof of professional capabilities. The platform's recommendation feature allows colleagues to write detailed testimonials about working relationships and professional qualities. LinkedIn's messaging system facilitates professional communication, networking conversations, recruitment discussions, and business development outreach. The platform's Sales Navigator tool helps sales professionals identify prospects, understand organizational structures, and build relationships with potential clients. LinkedIn's analytics provide insights into profile views, post engagement, search appearances, and network growth, helping users optimize their professional presence. The platform's groups feature creates communities around industries, interests, professional affiliations, and alumni networks where members share knowledge and opportunities. LinkedIn's event functionality promotes virtual and in-person professional gatherings, conferences, and networking events. The platform's publishing feature allows users to write and share long-form articles, establishing thought leadership and professional expertise. LinkedIn Premium subscriptions unlock additional features including expanded search capabilities, detailed profile insights, unlimited browsing, and enhanced messaging. The platform's focus on professional authenticity, career advancement, and business networking has made it indispensable for job searching, recruiting, professional development, business development, industry research, and maintaining professional relationships throughout career journeys across industries and geographies worldwide.",
-    "size": 134,
-    "reviews": 38000000,
-    "ratingAvg": 4.1,
-    "downloads": 1200000000,
-    "ratings": [
-      { "name": "1 star", "count": 5000000 },
-      { "name": "2 star", "count": 4000000 },
-      { "name": "3 star", "count": 7000000 },
-      { "name": "4 star", "count": 11000000 },
-      { "name": "5 star", "count": 11000000 }
-    ]
-  },
-  {
-    "image": "https://static.cdnlogo.com/logos/a/5/amazon.png",
-    "title": "Amazon Shopping",
-    "companyName": "Amazon.com, Inc.",
-    "id": 115,
-    "description": "Amazon Shopping is the mobile application for the world's largest online retailer, Amazon.com, Inc., providing instant access to millions of products across virtually every category imaginable, from electronics and books to clothing, home goods, groceries, and beyond. The platform has revolutionized retail by offering unprecedented selection, competitive pricing, customer reviews, and convenient delivery options that have fundamentally changed consumer shopping behavior worldwide. Amazon's mobile app enables users to browse product catalogs, search for specific items, compare prices, read detailed descriptions and specifications, view high-resolution product images, and watch demonstration videos that help inform purchasing decisions. The platform's customer review system provides authentic feedback from verified purchasers, including star ratings, written reviews, photos, and videos that offer valuable insights into product quality, performance, and satisfaction. Amazon Prime membership unlocks benefits including free two-day shipping, same-day delivery in select areas, exclusive deals, Prime Video streaming, Prime Music, Prime Reading, and early access to limited-time offers. The platform's one-click ordering streamlines the checkout process, remembering shipping addresses, payment methods, and preferences for instant purchases. Amazon's wish lists and shopping lists help users save items for future consideration, track prices, and share gift ideas with family and friends. The app's barcode scanner enables price comparisons by scanning products in physical stores and finding them on Amazon, often at lower prices. Amazon's Subscribe & Save program offers automatic recurring deliveries of frequently purchased items at discounted prices, perfect for household essentials, pet supplies, and personal care products. The platform's personalized recommendations use sophisticated algorithms to suggest products based on browsing history, purchase patterns, and items frequently bought together. Amazon's Deal of the Day, Lightning Deals, and Prime Day events offer time-limited discounts on popular products across categories. The platform's customer service includes easy returns, refund processing, order tracking, and responsive support through chat, phone, and email. Amazon's seller marketplace enables third-party merchants to offer products alongside Amazon's inventory, expanding selection and fostering competition. The app's voice search powered by Alexa allows hands-free product discovery and ordering. Amazon's gift card system provides flexible gifting options for any occasion. The platform's video shopping feature streams live product demonstrations and Q&A sessions with brands and influencers. Amazon's fashion and home services include virtual try-on features using augmented reality, visualization tools for furniture placement, and style recommendations. The platform's grocery services including Amazon Fresh and Whole Foods Market integration bring food and household essentials delivery to customers' doorsteps. Amazon's extensive third-party integration means purchases can be coordinated with smart home devices, voice assistants, and other connected services. The platform's global reach enables international shopping and shipping to numerous countries. Amazon's commitment to innovation in logistics, technology, customer experience, and market expansion continues transforming retail, consumer expectations, and the fundamental nature of commerce in the digital age.",
-    "size": 142,
-    "reviews": 78000000,
-    "ratingAvg": 4.3,
-    "downloads": 2800000000,
-    "ratings": [
-      { "name": "1 star", "count": 8000000 },
-      { "name": "2 star", "count": 6000000 },
-      { "name": "3 star", "count": 13000000 },
-      { "name": "4 star", "count": 24000000 },
-      { "name": "5 star", "count": 27000000 }
-    ]
-  },
-  {
-    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111589.png",
+    "image": "https://cdn.simpleicons.org/reddit",
     "title": "Reddit",
     "companyName": "Reddit, Inc.",
     "id": 116,
@@ -288,7 +252,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111370.png",
+    "image": "https://cdn.simpleicons.org/discord",
     "title": "Discord",
     "companyName": "Discord Inc.",
     "id": 117,
@@ -306,7 +270,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111668.png",
+    "image": "https://cdn.simpleicons.org/twitch",
     "title": "Twitch",
     "companyName": "Amazon.com, Inc.",
     "id": 118,
@@ -324,7 +288,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/174/174863.png",
+    "image": "https://cdn.simpleicons.org/pinterest",
     "title": "Pinterest",
     "companyName": "Pinterest, Inc.",
     "id": 119,
@@ -342,7 +306,7 @@
     ]
   },
   {
-    "image": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/uber.svg",
+    "image": "https://cdn.simpleicons.org/uber",
     "title": "Uber",
     "companyName": "Uber Technologies Inc.",
     "id": 120,

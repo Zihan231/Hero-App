@@ -11,7 +11,7 @@ const Hero = () => {
 
                     </h1>
                     <p className="py-2 text-[#627382] max-w-[800px] mx-auto my-4 md:my-6 sm:my-5">
-                        At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.
+                        At <span className='txtGrad font-medium'>HERO.IO</span>, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.
                     </p>
                     <a href="https://play.google.com/store/games" target='_black'>
                         <button className="btn font-semibold text-lg mr-4"><img className='w-[28px] mr-1' src={googlePlay} alt=""></img> Google Play</button>

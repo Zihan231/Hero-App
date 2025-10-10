@@ -34,7 +34,7 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end ">
-                <a className="btn bgGrad text-white"><span><FaGithub /></span> Contribute</a>
+                <a href="https://github.com/Zihan231" target='_blank' className="btn bgGrad text-white"><span><FaGithub /></span> Contribute</a>
             </div>
         </div>
     );
